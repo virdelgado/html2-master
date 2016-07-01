@@ -13,13 +13,13 @@ ul.nav li a {
 #about_blue {
   background-color: #6495ED;
   border: black 3px solid;
-  padding: 20px;
 }
 
 
 #about_yellow {
   background-color: #FFEBCD;
   border: black 3px solid;
+  margin: 20px 0px 0px 0px;
 }
 
 #about_blue li {
